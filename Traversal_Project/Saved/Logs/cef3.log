@@ -1,0 +1,20 @@
+[23712:25456:0206/172316.923:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23712:18188:0206/172316.968:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23712:25456:0206/172317.053:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23712:25456:0206/172319.040:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[28580:27100:0206/172320.141:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-032E813C23D07034989BEB5C646CC331 will be ignored
+[23712:13868:0206/172320.427:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[23712:25456:0206/172320.507:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[23712:25456:0206/172320.507:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[23712:25456:0206/172320.507:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[23712:25456:0206/172320.507:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[23712:13868:0206/172320.511:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[23712:25456:0206/172321.806:ERROR:device_event_log_impl.cc(196)] [17:23:21.799] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[14448:13620:0206/172323.404:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14448:13620:0206/172323.436:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14448:13620:0206/172334.091:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14448:13620:0206/172345.424:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5616:15024:0206/172528.929:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5616:15024:0206/172528.929:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[23712:25456:0206/173646.545:ERROR:device_event_log_impl.cc(196)] [17:36:46.540] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23712:25456:0206/180512.925:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
