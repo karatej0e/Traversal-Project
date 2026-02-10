@@ -108,8 +108,12 @@
 				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Textures/T_Wood_Pine_N.uasset",
 				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Textures/T_Wood_Walnut_D.uasset",
 				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Textures/T_Wood_Walnut_N.uasset",
-				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Levels/NewWorld.umap",
-				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Levels/MainLevel.umap"
+				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Levels/MainLevel.umap",
+				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Materials/M_Landscape.uasset",
+				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Materials/M_LandscapeInfo/Grass_LayerInfo.uasset",
+				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Materials/M_LandscapeInfo/Gravel_LayerInfo.uasset",
+				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Materials/M_LandscapeInfo/Rock_LayerInfo.uasset",
+				"D:/- Aarush Portfolio/GAME 310/Traversal Project/Traversal-Project/Traversal_Project/Content/Levels/NewWorld.umap"
 			]
 		}
 	]
