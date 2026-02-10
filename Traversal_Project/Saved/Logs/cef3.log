@@ -1,20 +1,14 @@
-[10628:18776:0210/152516.824:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10628:17688:0210/152517.262:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10628:18776:0210/152517.422:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10628:18776:0210/152520.943:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[10628:18776:0210/152523.816:ERROR:device_event_log_impl.cc(196)] [15:25:23.486] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8764:10028:0210/152524.152:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B08C8626D0895F1EB988C9B5CA76D1E1 will be ignored
-[10628:17132:0210/152526.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[11248:2372:0210/152526.496:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[11248:2372:0210/152527.159:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[10628:17132:0210/152527.483:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[10628:18776:0210/152527.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[10628:18776:0210/152527.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[10628:18776:0210/152527.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[10628:18776:0210/152527.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[10628:17132:0210/152527.772:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[11248:2372:0210/152542.162:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[11248:2372:0210/152556.162:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[2600:7968:0210/152738.839:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[2600:7968:0210/152738.839:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[10628:18776:0210/153524.128:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[9716:10380:0210/153604.168:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9716:15288:0210/153604.197:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9716:10380:0210/153604.208:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9716:10380:0210/153606.293:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[20820:23216:0210/153609.317:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B199E73E85209AF39486B32259C44B96 will be ignored
+[9716:10380:0210/153610.317:ERROR:device_event_log_impl.cc(196)] [15:36:09.987] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23344:17072:0210/153611.346:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9716:7276:0210/153612.635:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23344:17072:0210/153622.125:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23344:17072:0210/153632.157:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9716:7276:0210/165412.007:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9716:10380:0210/174348.289:ERROR:device_event_log_impl.cc(196)] [17:43:48.225] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9716:10380:0210/174348.622:ERROR:device_event_log_impl.cc(196)] [17:43:48.303] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9716:10380:0210/185011.266:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
