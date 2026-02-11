@@ -1,12 +1,14 @@
-[18052:12736:0210/185044.406:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18052:23196:0210/185044.443:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18052:12736:0210/185044.455:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18052:12736:0210/185046.510:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[18052:12736:0210/185050.057:ERROR:device_event_log_impl.cc(196)] [18:50:50.003] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[21444:14800:0210/185050.242:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C590ED384432F239F3F0C9AC76253062 will be ignored
-[16772:15324:0210/185053.133:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[16772:15324:0210/185053.176:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[16772:15324:0210/185107.171:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[16772:15324:0210/185115.397:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[18052:12736:0210/200024.598:ERROR:device_event_log_impl.cc(196)] [20:00:24.426] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[18052:12736:0210/203619.045:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23580:23444:0210/224821.456:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23580:13908:0210/224821.495:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23580:23444:0210/224821.509:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23580:23444:0210/224824.062:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[18856:24752:0210/224825.788:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7C11D34EC0E33C202189992B3C88C4D9 will be ignored
+[23152:24672:0210/224828.865:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23152:24672:0210/224829.525:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23580:23444:0210/224830.179:ERROR:device_event_log_impl.cc(196)] [22:48:29.846] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23152:24672:0210/224840.194:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23152:24672:0210/224852.977:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23580:23444:0210/230616.561:ERROR:device_event_log_impl.cc(196)] [23:06:16.469] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23580:23444:0210/230950.506:ERROR:device_event_log_impl.cc(196)] [23:09:50.501] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23580:23444:0210/234828.289:ERROR:device_event_log_impl.cc(196)] [23:48:28.281] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23580:23444:0210/235642.294:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
