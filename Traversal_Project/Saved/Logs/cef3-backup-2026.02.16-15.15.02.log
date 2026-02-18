@@ -1,0 +1,17 @@
+[19620:16488:0216/101413.801:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19620:16488:0216/101414.081:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[19620:20084:0216/101414.179:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19620:16488:0216/101414.295:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19620:16488:0216/101420.241:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[13836:10068:0216/101422.560:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C1341439A1FE7816967DDE04EFF541C3 will be ignored
+[19620:19832:0216/101423.407:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19620:16488:0216/101423.572:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19620:16488:0216/101423.572:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19620:16488:0216/101423.572:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19620:16488:0216/101423.572:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19620:19832:0216/101423.576:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[5564:3524:0216/101423.852:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5564:3524:0216/101423.939:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5564:3524:0216/101435.770:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5564:3524:0216/101447.705:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19620:16488:0216/101502.347:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
