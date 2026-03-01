@@ -1,21 +1,12 @@
-[9836:5912:0301/103244.506:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9836:8316:0301/103244.826:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9836:5912:0301/103245.007:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9836:5912:0301/103248.683:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[9836:5912:0301/103250.702:ERROR:device_event_log_impl.cc(196)] [10:32:50.377] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[16176:10572:0301/103251.041:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CC8341CA17F48C56A6640C96A2C2BB6F will be ignored
-[19908:11840:0301/103252.733:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[19908:11840:0301/103253.468:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[9836:21804:0301/103253.705:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[9836:5912:0301/103254.036:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[9836:5912:0301/103254.036:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[9836:5912:0301/103254.036:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[9836:5912:0301/103254.036:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[9836:21804:0301/103254.039:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19908:11840:0301/103305.380:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[19908:11840:0301/103318.386:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[20160:17356:0301/103506.442:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[20160:17356:0301/103506.442:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[9836:5912:0301/112804.250:ERROR:device_event_log_impl.cc(196)] [11:28:04.213] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[9836:21804:0301/133055.647:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[9836:5912:0301/144213.433:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12816:10400:0301/160403.282:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12816:16016:0301/160403.322:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12816:10400:0301/160403.364:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12816:10400:0301/160405.923:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7296:6428:0301/160407.670:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E19C6B12C06603F5034BEED368A78635 will be ignored
+[18380:3084:0301/160410.059:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18380:3084:0301/160410.700:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[12816:10948:0301/160411.401:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12816:10400:0301/160412.668:ERROR:device_event_log_impl.cc(196)] [16:04:12.336] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18380:3084:0301/160420.389:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18380:3084:0301/160435.721:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12816:10400:0301/171110.497:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
