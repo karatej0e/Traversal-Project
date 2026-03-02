@@ -1,3 +1,5 @@
-2026/03/01-16:04:03.452 4ee8 Reusing MANIFEST D:\GMU\GAME 310\Traversal Project\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/01-16:04:03.453 4ee8 Recovering log #3
-2026/03/01-16:04:03.453 4ee8 Reusing old log D:\GMU\GAME 310\Traversal Project\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/03/02-12:22:30.932 c228 Log #3: 17 ops saved to Table #4 OK
+2026/03/02-12:22:30.934 c228 Archiving C:\Users\oreos\Documents\Github Project\TEST\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/03/02-12:22:30.934 c228 Table #4: 17 entries OK
+2026/03/02-12:22:30.936 c228 Archiving C:\Users\oreos\Documents\Github Project\TEST\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/02-12:22:30.954 c228 **** Repaired leveldb C:\Users\oreos\Documents\Github Project\TEST\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 365 bytes. Some data may have been lost. ****
