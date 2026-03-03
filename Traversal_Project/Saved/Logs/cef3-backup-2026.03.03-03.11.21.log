@@ -1,0 +1,17 @@
+[12892:9860:0302/172004.662:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12892:464:0302/172004.731:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12892:9860:0302/172004.746:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12892:9860:0302/172006.697:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[14252:2980:0302/172008.760:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DFC000D38ECB50F649792050076348DA will be ignored
+[8108:9168:0302/172012.109:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8108:9168:0302/172012.908:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12892:6080:0302/172013.373:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12892:9860:0302/172013.426:ERROR:device_event_log_impl.cc(196)] [17:20:13.099] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8108:9168:0302/172024.130:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8108:9168:0302/172033.773:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12892:9860:0302/182326.717:ERROR:device_event_log_impl.cc(196)] [18:23:26.712] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[12892:9860:0302/204111.299:ERROR:device_event_log_impl.cc(196)] [20:41:11.049] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[12892:9860:0302/205516.001:ERROR:device_event_log_impl.cc(196)] [20:55:15.999] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8280:12572:0302/221121.447:ERROR:angle_platform_impl.cc(44)] Renderer11.cpp:2280 (virtual rx::Renderer11::testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0007
+[8280:12572:0302/221121.447:ERROR:shared_context_state.cc(1244)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[8280:12572:0302/221121.448:ERROR:gpu_service_impl.cc(1164)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.

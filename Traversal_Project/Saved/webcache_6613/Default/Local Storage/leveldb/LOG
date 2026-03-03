@@ -1,2 +1,3 @@
-2026/03/02-12:22:30.932 5f28 Creating DB C:\Users\oreos\Documents\Github Project\TEST\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/03/02-12:22:30.960 5f28 Reusing MANIFEST C:\Users\oreos\Documents\Github Project\TEST\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-22:11:43.656 4760 Reusing MANIFEST D:\GMU\GAME 310\Traversal Project\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-22:11:43.660 4760 Recovering log #3
+2026/03/02-22:11:43.661 4760 Reusing old log D:\GMU\GAME 310\Traversal Project\Traversal-Project\Traversal_Project\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
