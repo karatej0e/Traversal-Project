@@ -1,0 +1,10 @@
+[19244:3628:0314/221806.573:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19244:3628:0314/221806.769:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[19244:24636:0314/221806.900:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19244:3628:0314/221807.061:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19244:3628:0314/221811.482:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[19244:3628:0314/221815.098:ERROR:device_event_log_impl.cc(196)] [22:18:14.775] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20836:13808:0314/221816.106:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2F097AD2936F4AFFB265C7707FA7D8FF will be ignored
+[14696:1580:0314/221817.110:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[14696:1580:0314/221831.448:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[14696:1580:0314/221840.450:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
